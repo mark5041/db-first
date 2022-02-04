@@ -12,7 +12,7 @@
             'Cambio' => 'manuale',
             'Condizionatore' => 0,
             'Kilometri' => 125.50,
-            'foto' => 'https://www.autoscout24.it/assets/auto/images/model/fiat/fiat-panda/fiat-panda-l-01.jpg'
+            'foto' => 'https://cdn2.rcstatic.com/images/car_images/web/fiat/panda_lrg.jpg'
         ],
         [
             'codice_auto' => 1,
@@ -25,7 +25,7 @@
             'Cambio' => 'manuale',
             'Condizionatore' => 0,
             'Kilometri' => 155.50,
-            'foto' => 'https://www.autoscout24.it/assets/auto/images/model/ford/ford-kuga/ford-kuga-l-04.jpg'
+            'foto' => 'https://cdn2.rcstatic.com/images/car_images/web/ford/kuga_lrg.jpg'
         ],
         [
             'codice_auto' => 2,
@@ -38,7 +38,7 @@
             'Cambio' => 'automatico',
             'Condizionatore' => 0,
             'Kilometri' => 130.50,
-            'foto' => 'https://www.autoscout24.it/assets/auto/images/model/vw/vw-tiguan/vw-tiguan-l-01.jpg'
+            'foto' => 'https://cdn2.rcstatic.com/images/car_images/web/toyota/auris_lrg.jpg'
         ],
     ]
 
